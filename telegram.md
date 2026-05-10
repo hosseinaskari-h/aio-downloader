@@ -7,6 +7,20 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 22:53
+---
+
+## proxymtproto — post 47336
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: proxy.nolags.pw
+Port: 443
+Secret: dde8f80bb2dbf4105c07ca7559599924c9
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 21:36
 ---
 
