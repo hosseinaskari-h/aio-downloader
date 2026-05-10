@@ -7,6 +7,20 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 23:39
+---
+
+## proxymtproto — post 47337
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: tgobhod.forum
+Port: 443
+Secret: ee1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d74676f62686f642e666f72756d
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 22:53
 ---
 
