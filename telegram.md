@@ -7,6 +7,50 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 02:38
+---
+
+## configx2ray — post 38724
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38724" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38723
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38723" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38722
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بیدارید 
+🫤
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 01:34
 ---
 
