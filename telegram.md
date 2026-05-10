@@ -7,6 +7,20 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 15:13
+---
+
+## proxymtproto — post 47328
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: arixo.shop
+Port: 443
+Secret: eec11798ab008831b474066c9e1ebf5c9978352e7275
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 14:26
 ---
 
