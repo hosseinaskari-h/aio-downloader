@@ -7,6 +7,20 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 17:38
+---
+
+## proxymtproto — post 47330
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 79.137.196.223
+Port: 443
+Secret: eeee525b778775d1c3b1e2beb8af08e2017777772e636c6f7564666c6172652e636f6d
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 16:12
 ---
 
