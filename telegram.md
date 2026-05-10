@@ -7,6 +7,43 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 16:12
+---
+
+## proxymtproto — post 47329
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 194.50.94.98
+Port: 443
+Secret: ee75a53853cb3f53976737c82a53d4f13879616e6465782e7275
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38713
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38713" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38712
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+😋
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 15:13
 ---
 
