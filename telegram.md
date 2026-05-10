@@ -7,6 +7,38 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 21:36
+---
+
+## proxymtproto — post 47335
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: y.vkgosuslugi.ru
+Port: 443
+Secret: eef7f61a772049acbf6712254678726d8477622e7275
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38719
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38719_1778436368.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+socks://Og@62.220.126.92:30376#https://t.me/ConfigX2ray
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 20:42
 ---
 
