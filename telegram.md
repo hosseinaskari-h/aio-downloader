@@ -7,6 +7,20 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 13:22
+---
+
+## proxymtproto — post 47326
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: quickrouteapp.xyz
+Port: 443
+Secret: ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 12:18
 ---
 
