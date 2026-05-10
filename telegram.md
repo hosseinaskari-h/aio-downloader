@@ -7,6 +7,47 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/20 19:40
+---
+
+## proxymtproto — post 47333
+
+<div align="center">
+  <img src="telegram/content/proxymtproto_47333_1778429416.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📉 Metrics show the #Iran internet blackout is now in its 72nd day with connectivity flatlining after 1704 hours. The unprecedented measure is well into its third month with no indication of a wider restoration as authorities bar the general public from international access.
+</div>
+
+## proxymtproto — post 47332
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: quickrouteapp.xyz
+Port: 443
+Secret: ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38715
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هرچیزی که رایگانه براتون وصله رو دایرکت چنل بفرستید تا متود برداری کنیم و از روش سرور بسازیم بزاریم چنل استفادع کنید فقط رایگان هارو بفرستید دمتون گرم دایرکت چنل : http://t.me/ConfigX2ray?direct
+</div>
+
+## configx2ray — post 38714
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هرچیزی که رایگانه براتون وصله رو دایرکت چنل بفرستید تا متود برداری کنیم و از روش سرور بسازیم بزاریم چنل استفادع کنید
+
+فقط رایگان هارو بفرستید دمتون گرم
+دایرکت چنل :
+http://t.me/ConfigX2ray?direct
+</div>
+
+---
 📅 بروزرسانی: 1405/02/20 18:43
 ---
 
