@@ -7,6 +7,147 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 20:15
+---
+
+## popularxfront — post 6218
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇫🇷 We met with members of the mysterious "814" group recently. They told us they're an apolitical collective focused only on “living fast”. More soon...
+</div>
+
+## popularxfront — post 6215
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇨🇳 #China: Footage reportedly shows the PLA experimenting with “cope cage” protection on unmanned ground vehicles (UGVs) used for frontline logistics and supply transport, including water and other essential supplies.
+
+According to a Chinese defence blog aligned with PLA analysis, Chinese military observers have studied the war in Ukraine, particularly the growing dominance of FPV drones over battlefield logistics. The report notes that the traditional way of moving supplies under the cover of darkness is becoming obsolete, as thermal-equipped drones now allow both sides to detect and strike targets even at night.
+
+The report further describes the emergence of large “kill zones” behind the front line, where conventional resupply vehicles and personnel are highly vulnerable to drone attacks.
+
+As a result, the PLA is reportedly exploring unmanned transport systems fitted with cage armor to improve survivability against FPV strikes.
+</div>
+
+## proxymtproto — post 47351
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: another.life.mambabot.net
+Port: 4515
+Secret: ee9e9ad891ef691ab3a5b8051c1fdd1561616e6f746865722e6c6966652e6d616d6261626f742e6e6574
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47350
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: quickrouteapp.xyz
+Port: 443
+Secret: ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47349
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: win.sosproxy.space
+Port: 443
+Secret: ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47348
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: arixo.shop
+Port: 443
+Secret: eec11798ab008831b474066c9e1ebf5c99617669746f2e7275
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47347
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 5.231.56.165
+Port: 443
+Secret: 7c81481b8a23812706cbd96fb2c8b0b8
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47346
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: fast.etherealvpn.uk
+Port: 443
+Secret: ee2a6c4a57692c97e9a8bf7bab7ae8479f706574726f766963682e7275
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38743
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38743" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38738
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38738" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38737
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38737_1778517960.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152?type=tcp&headerType=none#https://t.me/ConfigX2ray
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38736
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Free 🔥 اختصاصی @ConfigX2ray.npvt
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 14:57
 ---
 
