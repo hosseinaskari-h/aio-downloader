@@ -7,6 +7,53 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 23:45
+---
+
+## popularxfront — post 6223
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6223_1778530546.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇱🇧 #Lebanon - 🇮🇱 #Israel: Aerial footage shows an explosive-laden Hezbollah drone striking the door of an IDF APC somewhere in Bayada on May 3rd.
+
+The drone was reportedly fiber-optic-guided and had an RPG warhead attached underneath it.
+
+(via @war_noir)
+</div>
+
+## proxymtproto — post 47355
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: Unknown
+Port: 7443
+Secret: AAAAAAAAAAAAAAAAAAAAABQ=
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47354
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: proxy.fluxoria.it.com
+Port: 443
+Secret: ee307242dd41275c771f40035565d0750a70726f78792e666c75786f7269612e69742e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47353
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: tgobhod.forum
+Port: 443
+Secret: ee1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d74676f62686f642e666f72756d
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 21:57
 ---
 
