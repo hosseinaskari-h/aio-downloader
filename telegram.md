@@ -7,6 +7,68 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 11:30
+---
+
+## proxymtproto — post 47342
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: win.sosproxy.space
+Port: 443
+Secret: ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47341
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 212.227.40.113
+Port: 443
+Secret: eea1b2c3d4e5f60123456789abcdef012373332e616d617a6f6e6177732e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47340
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: proproxiesnl.grittytarantula.sbs
+Port: 443
+Secret: ee194f2f2828b75a915baed3715e51e94070726f70726f786965736e6c2e677269747479746172616e74756c612e736273
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47339
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: quickrouteapp.xyz
+Port: 443
+Secret: ee7e4f1c8b3d2a5e9c6f0b4d8a1c5e7f2b717569636b726f7574656170702e78797a
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38728
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هرچیزی که رایگانه براتون وصله رو دایرکت چنل بفرستید تا متود برداری کنیم و از روش سرور بسازیم بزاریم چنل استفادع کنید فقط رایگان هارو بفرستید دمتون گرم دایرکت چنل : http://t.me/ConfigX2ray?direct
+</div>
+
+## configx2ray — post 38727
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+هرچیزی که رایگانه براتون وصله رو دایرکت چنل بفرستید تا متود برداری کنیم و از روش سرور بسازیم بزاریم چنل استفادع کنید
+
+فقط رایگان هارو بفرستید دمتون گرم
+دایرکت چنل :
+http://t.me/ConfigX2ray?direct
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 07:54
 ---
 
