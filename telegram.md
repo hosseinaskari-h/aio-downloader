@@ -7,6 +7,34 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 01:13
+---
+
+## proxymtproto — post 47357
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Все отвалилось? Подключайся заново ⚡
+
+🎁 Бесплатный MTProto прокси уже ждёт
+Забери прямо сейчас 👇
+
+🚫 Без рекламы
+⚡ Максимальная скорость
+🛡 Стабильное соединение
+</div>
+
+## proxymtproto — post 47356
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: s1.proxytg.space
+Port: 443
+Secret: ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 23:45
 ---
 
