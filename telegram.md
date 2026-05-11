@@ -7,6 +7,158 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/21 14:57
+---
+
+## popularxfront — post 6207
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇹🇭 #Thailand: A Chinese national was arrested on May 8th in Chon Buri province after a car crash led Thai police to what local media described as an entire “war arsenal” hidden inside his rented home.
+
+Thai police seized a massive cache of weapons and explosives, including M4-style rifles, Glock pistols, hand grenades, anti-personnel mines, detonators, sticks of dynamite, C4, tactical gear, fuel containers, and large quantities of ammunition. At least one tactical vest rigged with C4 charges and remote detonators was also found.
+
+Thai media further reported that investigators found alleged discussions related to sabotage and explosives on the suspect’s phone with ChatGPT, along with videos showing him training with firearms and grenades in Cambodia.
+
+Authorities have not publicly confirmed any links to militant organizations. During questioning, the suspect reportedly claimed he suffered from depression and intended to use the explosives in a suicide attack.
+
+(via Thai Examiner, Bangkok Post & amarintv)
+</div>
+
+## popularxfront — post 6206
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6206_1778498829.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇦 #Ukraine – 🇷🇺 #Russia: Helmet-cam footage shows a Ukrainian soldier from the Seraphim Drone Unit narrowly escaping a drone strike on a pickup truck, jumping clear at the exact moment of the explosion.
+
+The soldier appears to be armed with a Turkish-made bullpup shotgun, the HATSAN BTS-12, reportedly used by anti-drone units for its effectiveness and accuracy at ranges of up to 120 meters with 12-gauge loads.
+</div>
+
+## proxymtproto — post 47345
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: t.hhelios.ru
+Port: 443
+Secret: eebfe8fc1c84e404ccdfb33c0990ba5c4435706f73742d676174652e78352e7275
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47344
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 2.27.22.112
+Port: 443
+Secret: ee17ea0a2562ea669ebe7308ee7f9ae63b706574726f766963682e7275
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47343
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 172.234.115.238
+Port: 443
+Secret: 3a3365be03d6bc13518d65e70a3146c2
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38735
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38735" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38734
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستان چند عدد سرور اختصاصی 3 گیگ هم موجوده قیمت با بیشترین تخفیف تقدیم میشه 490 هزار تومان
+❤️ سرور کاملا تضمینی میباشد بدونه ضریب همراه با ساب جهت استعلام حجم مصرفیتون
+🌟 نیاز داشتید میتونید به ایدی زیر پیام بدید
+⭐️ : ID : https://t.me/serverfast2 
+💠
+</div>
+
+## configx2ray — post 38733
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستان چند عدد سرور اختصاصی 3 گیگ هم موجوده قیمت با بیشترین تخفیف تقدیم میشه 490 هزار تومان
+❤️
+
+سرور کاملا تضمینی میباشد بدونه ضریب همراه با ساب جهت استعلام حجم مصرفیتون
+🌟
+
+نیاز داشتید میتونید به ایدی زیر پیام بدید
+⭐️ :
+
+ID : https://t.me/serverfast2 
+💠
+</div>
+
+## configx2ray — post 38732
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38732" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38731
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+45.82.136.180
+
+22888
+
+پروکسی برای سایفونتون 
+⚡️
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38729
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38729_1778498832.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+socks://Og@45.149.76.86:81#https://t.me/ConfigX2ray
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/21 11:30
 ---
 
