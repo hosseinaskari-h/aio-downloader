@@ -7,6 +7,78 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 21:04
+---
+
+## popularxfront — post 6233
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6233_1778607243.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇨🇺 #Cuba: Footage released by Cuban media shows artillery units of the FAR (Revolutionary Armed Forces of Cuba) carrying out combat drills involving howitzers and multiple rocket launcher systems (MRLS).
+
+(via @war_noir)
+</div>
+
+## popularxfront — post 6232
+
+<div align="center">
+  <img src="telegram/content/popularxfront_6232_1778607244.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🍃 Wild bag out now: https://www.popularfront.shop/products/wild-bag
+</div>
+
+## proxymtproto — post 47371
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: tg1.tgproxy1.fun
+Port: 8443
+Secret: ee9f275776f928838953db9dc7c5629ef27467312e746770726f7879312e66756e
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47370
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: calcium-credit.top
+Port: 853
+Secret: ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47369
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: vfast.proxytg.space
+Port: 443
+Secret: ee4b3ce8c172e8a23ff5f953069ef6c38a64726976652e676f6f676c652e636f6d
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38768
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38768_1778607245.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+trojan://2a599135-886f-4359-bf68-0993baa990f1@79.127.82.170:443?path=%2F1000%2F10%2Fb449693f-1869-4379-946d-279f2ad95021&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd&fp=randomized&type=ws&allowInsecure=0&sni=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd#https://t.me/ConfigX2ray
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 18:55
 ---
 
