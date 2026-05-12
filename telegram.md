@@ -7,6 +7,116 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 18:55
+---
+
+## proxymtproto — post 47368
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: arixo.shop
+Port: 443
+Secret: eec11798ab008831b474066c9e1ebf5c99617669746f2e7275
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47367
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: arixo.shop
+Port: 443
+Secret: eec11798ab008831b474066c9e1ebf5c99617669746f2e7275
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47366
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: proxy.nolags.pw
+Port: 443
+Secret: dd1ceee809992f1b5205b6fc3cea02aac7
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38764
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستان چند عدد سرور اختصاصی 3 گیگ هم موجوده قیمت با بیشترین تخفیف تقدیم میشه 490 هزار تومان
+❤️
+
+سرور کاملا تضمینی میباشد بدونه ضریب همراه با ساب جهت استعلام حجم مصرفیتون
+🌟
+
+نیاز داشتید میتونید به ایدی زیر پیام بدید
+⭐️ :
+
+ID : https://t.me/serverfast2 
+💠
+</div>
+
+## configx2ray — post 38763
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38763_1778599543.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://telegram-dickiriptorbot@13.249.2.122:443?path=%2F&security=tls&encryption=none&insecure=1&host=dbw9jfe94rh28.cloudfront.net&type=ws&allowInsecure=1&sni=3.173.21.63#https://t.me/ConfigX2ray
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38762
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مرادعلی متصل.npvt
+</div>
+
+## configx2ray — post 38761
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38761" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38760
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38760_1778599544.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+{"remarks":"https://t.me/ConfigX2ray","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"socks","settings":{"servers":[{"address":"62.220.126.92","ota":false,"port":32302,"level":8}]},"streamSettings":{"network":"tcp"},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 15:52
 ---
 
