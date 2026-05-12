@@ -7,6 +7,73 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 00:28
+---
+
+## popularxfront — post 6235
+
+<div align="center">
+  <img src="telegram/content/popularxfront_6235_1778619508.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸 #US: A former mayor of Arcadia, California, has plead guilty to acting as an agent of the Chinese government, according to the US Department of Justice.
+
+Eileen Wang, 58, allegedly worked with individuals linked to Beijing between 2020 and 2022 to distribute pro-PRC propaganda through a Chinese-language media platform, targeting the local Chinese-American community.
+
+Prosecutors stated that some of the content promoted narratives approved directly by Chinese officials, including propaganda denying genocide and human rights abuses against Uyghurs in Xinjiang.
+
+Wang resigned from both the Arcadia City Council and her position as mayor shortly after the charges were announced. She now faces a maximum sentence of up to 10 years in federal prison.
+
+(via BBC)
+</div>
+
+## proxymtproto — post 47375
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: fit.proxytg.space
+Port: 443
+Secret: ee0ea320b5c19fb4f014bb1514baeb49da64726976652e676f6f676c652e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47374
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: Unknown
+Port: 7443
+Secret: AAAAAAAAAAAAAAAAAAAAABQ=
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47373
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: s.rkn.tg
+Port: 853
+Secret: ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38777
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38777" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 22:56
 ---
 
