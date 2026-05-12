@@ -7,6 +7,55 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 15:52
+---
+
+## proxymtproto — post 47365
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: mt.corph.ru
+Port: 443
+Secret: ee2ed7517b077ef414e24b106e0729335d6d742e636f7270682e7275
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47364
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 89.125.48.232
+Port: 443
+Secret: ee72f3ca54320d22b0c5d8daf53168962d706574726f766963682e7275
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38757
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستانی که میتونن سرور بسازن تو این شرایط خوب کار کنه برا همکاری میتونید پیوی پیام بدید
+
+@Mehrabhabo
+</div>
+
+## configx2ray — post 38756
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38756" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 13:45
 ---
 
