@@ -7,6 +7,53 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 11:09
+---
+
+## popularxfront — post 6224
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇵🇰 #Pakistan: At least seven people, including two policemen, were killed and more than 20 others injured in an explosion targeting a police vehicle in the Serai Naurang area of Lakki Marwat district, Khyber Pakhtunkhwa province.
+
+According to local authorities, the blast occurred in a crowded market area during a routine police patrol, causing multiple civilian casualties and extensive damage to nearby shops and vehicles. The exact nature of the explosion remains under investigation. However, the attack follows a recurring pattern in the region of TTP (Tehrik-i-Taliban Pakistan) militants specifically targeting police and security force vehicles.
+
+Meanwhile, roughly 30 km away, TTP militants blew up the Lora Fateh Khel bridge in Bannu district, effectively isolating multiple nearby areas. Just days earlier, another police checkpoint in the region was targeted in a suicide attack.
+
+(via @TKCkhyber on X)
+</div>
+
+## proxymtproto — post 47361
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: xycrastination.org
+Port: 443
+Secret: eef00a88fd4b67fa2f96bfb3402fceb5ea7777772e676f6f676c652e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47360
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: tp.ascel.la
+Port: 543
+Secret: eec1f71e1f27f7169fff4d48d2d03ca39e7777772e7472656c6c6f2e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47359
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: proproxiesnl.grittytarantula.sbs
+Port: 443
+Secret: ee6f60810259ee86ef3103377d528366aa70726f70726f786965736e6c2e677269747479746172616e74756c612e736273
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 08:26
 ---
 
