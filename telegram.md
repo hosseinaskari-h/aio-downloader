@@ -7,6 +7,28 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 02:48
+---
+
+## configx2ray — post 38778
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38778_1778627916.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://92177ca1-c032-4335-a166-c1947a3447b4@snapp.ir:80?path=%2F&security=none&encryption=none&host=M1.snllshop.ir&type=ws#https://t.me/ConfigX2ray
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 01:41
 ---
 
