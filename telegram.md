@@ -7,6 +7,20 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 08:26
+---
+
+## proxymtproto — post 47358
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: proxy.xomodz.fit
+Port: 853
+Secret: ee78a3039828ea09d09f328b2590943c6570726f78792e786f6d6f647a2e666974
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 04:53
 ---
 
