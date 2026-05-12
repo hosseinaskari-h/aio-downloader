@@ -7,6 +7,59 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/22 13:45
+---
+
+## popularxfront — post 6229
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6229_1778580919.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇸🇴 #Somalia: Somali security forces have opened fire on protesters in Mogadishu’s Daynile district as demonstrations intensified over the past week following the government’s decision to evict residents from low-income areas.
+
+(via @Terroralerts007)
+</div>
+
+## proxymtproto — post 47363
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: s1.proxytg.space
+Port: 443
+Secret: ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47362
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: i-love-femboys.top
+Port: 853
+Secret: ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38753
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38753_1778580921.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+socks://ZXJtaWE6RXJtaWEzNDcyIw%3D%3D@185.231.183.229:80#https://t.me/ConfigX2ray
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/22 11:09
 ---
 
