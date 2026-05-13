@@ -7,6 +7,20 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 08:34
+---
+
+## proxymtproto — post 47376
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: mt.shifor.live
+Port: 443
+Secret: eee1de11495a1f99a91c4ee0c863252b586d742e736869666f722e6c697665
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 04:53
 ---
 
