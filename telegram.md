@@ -7,6 +7,45 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 16:07
+---
+
+## popularxfront — post 6243
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6243_1778675824.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸 #US - 🇲🇽 #Mexico: A pickup truck carrying alleged members of the Sinaloa Cartel exploded on a highway on the outskirts of Mexico City in late March, killing two sicarios.
+
+One of those killed was reportedly a senior cartel figure and lieutenant known by the alias “El Payín.” Initial reports from Mexican media claimed the blast was caused by a car bomb, though later reporting attributed the explosion to a possible mechanical failure.
+
+However, other sources cited by CNN alleged that the attack may have been carried out by the CIA’s "Ground Branch" division as part of a covert campaign against Mexican cartels. Mexico’s Secretary of Security, Omar García Harfuch, has publicly denied those claims, stating that no such foreign operations are taking place on Mexican soil.
+
+(via CNN)
+</div>
+
+## proxymtproto — post 47384
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: fast.etherealvpn.uk
+Port: 443
+Secret: ee369e4778721f2f5a1cc54e802e379c62706574726f766963682e7275
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47383
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 185.224.215.250
+Port: 443
+Secret: eea1b2c3d4e5f60123456789adadad432173332e616d617a6f6e6177732e636f6d
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 14:13
 ---
 
