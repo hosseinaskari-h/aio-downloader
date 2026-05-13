@@ -7,6 +7,26 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 03:12
+---
+
+## configx2ray — post 38802
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38802" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 02:08
 ---
 
