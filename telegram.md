@@ -7,6 +7,93 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 19:09
+---
+
+## proxymtproto — post 47387
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: vfast.proxytg.space
+Port: 443
+Secret: ee4b3ce8c172e8a23ff5f953069ef6c38a64726976652e676f6f676c652e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47386
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: proxy.nolags.pw
+Port: 443
+Secret: dd1ceee809992f1b5205b6fc3cea02aac7
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47385
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 2.27.41.207
+Port: 443
+Secret: ee9436fa39ab47ccb34f217ac6d06b4e58617669746f2e7275
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38790
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38790_1778686759.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://6a2405d9-61e2-4c74-a638-b2e2899e1995@snapp.ir:80/?type=ws&encryption=none&flow=&host=pa1.ghostantaniehh.ir&path=%2F#https://t.me/ConfigX2ray
+
+
+vless://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083/?type=ws&encryption=none&flow=&host=p1.sesrsa.com&path=%2F&security=tls&sni=sub.sesrsa.com&fp=firefox#https://t.me/ConfigX2ray
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38789
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38789" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38788
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38788" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 16:07
 ---
 
