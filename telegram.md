@@ -7,6 +7,55 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/23 22:55
+---
+
+## popularxfront — post 6244
+
+<div align="center">
+  <img src="telegram/content/popularxfront_6244_1778700344.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇬🇧 #UK - 🇮🇷 #Iran: The UK government has announced that it will deploy Typhoon fighter jets, drones, autonomous mine hunting systems, and a Royal Navy warship as part of a multinational mission aimed at securing commercial shipping through the Strait of Hormuz.
+
+More than 40 countries are reportedly expected to participate in the operation.
+
+According to the British Ministry of Defence, the mission is intended to remain "strictly defensive" and focused on protecting maritime traffic.
+
+The announcement comes after Iran heavily restricted shipping through the strait in response to US and Israeli military operations, while simultaneously, US has enforced its own blockade on Iranian ports.
+
+(via BBC)
+</div>
+
+## proxymtproto — post 47390
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: germany.tgproxysokol.pro
+Port: 8443
+Secret: ee4215d16e455242e9b5ffb6349df285d06164732e78352e7275
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38797
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38797_1778700344.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+socks://ZXJtaWE6RXJtaWEzNDcyIw@185.231.183.229:80#https://t.me/ConfigX2ray
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/23 21:09
 ---
 
