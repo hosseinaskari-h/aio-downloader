@@ -7,6 +7,66 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 09:03
+---
+
+## proxymtproto — post 47394
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 79.137.196.223
+Port: 2053
+Secret: eeee1701dff011da0ee1313d584fc565187777772e636c6f7564666c6172652e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47393
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: swekitty.grittytarantula.sbs
+Port: 443
+Secret: ee7c9245a98f1f79bd6f318cbd8118c10f7377656b697474792e677269747479746172616e74756c612e736273
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38806
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38806_1778736821.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://dc7b8019-893f-4583-b95c-044b1f9696f4@dl4.paycollection.lol:80?path=%2Fflutter&security=&encryption=none&host=dl4.paycollection.lol&type=ws#6 https://t.me/ConfigX2ray
+
+socks://Og@62.220.126.56:26132#5 https://t.me/ConfigX2ray
+
+vless://5d5e2bf6-c92e-4c75-914f-6aa14d1988e3@SpeeD6630CSf.sismonifarangi.shop:443?path=%2Fleonvpn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=SpeeD6630CSf.sismonifarangi.shop&fp=chrome&type=ws&allowInsecure=0&sni=SpeeD6630CSf.sismonifarangi.shop#4 https://t.me/ConfigX2ray
+
+vless://04738fc0-2279-4e80-a641-5e99485a1367@185.221.239.67:2222?security=none&encryption=none&headerType=none&type=tcp#3 https://t.me/ConfigX2ray
+
+socks://Og@62.220.126.56:26132#2 https://t.me/ConfigX2ray
+
+vless://Telegram-Parsashonam@kubernetes.io:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%221-1%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22headers%22%3A%7B%22x-host%22%3A%22netlify.parsashonam.sbs%3A444%22%7D%7D&insecure=1&host=ir-netlify-unlimited-new.netlify.app&type=xhttp&allowInsecure=1&sni=kubernetes.io#1 https://t.me/ConfigX2ray
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38805
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Good morning 🌞
+😋
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 05:03
 ---
 
