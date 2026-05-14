@@ -7,6 +7,120 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 14:11
+---
+
+## popularxfront — post 6249
+
+<div align="center">
+  <img src="telegram/content/popularxfront_6249_1778755274.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇮🇪 #Ireland - 🇮🇱 #Israel: Newly released internal documents reveal that the Irish government approved approximately €20 million worth of “dual-use” exports to the IDF and Israel’s Ministry of Defence in 2024, during the height of the war in Gaza.
+
+The approved exports included technology and equipment with both civilian and military applications. The documents reportedly show that Irish authorities later on reversed course next year in 2025, citing concerns over human rights, regional stability, and the risk that the exported technology could be diverted for military use.
+
+The revelations have triggered political backlash in Ireland, with opposition figures accusing the government of contradicting its public stance on Gaza.
+
+(via Labour.ie & the currency)
+</div>
+
+## popularxfront — post 6245
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6245_1778755275.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇦 #Ukraine - 🇷🇺 #Russia: Russia launched a mass drone attack on Ukraine overnight, targeting multiple locations across Kyiv. Missiles were also reportedly used during the strikes.
+
+According to reports, Russia launched approximately 892 drones toward the city within the past 24 hours.
+
+(via @war_noir, @wartranslated & @NOELREPORTS on X)
+</div>
+
+## proxymtproto — post 47399
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 138.124.79.102
+Port: 443
+Secret: eeef989ce1d22d2afce85121376fed00176d61782e7275
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47398
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: hello.proxytg.space
+Port: 443
+Secret: ee57b7509fe484325abedc85f18804843768656c6c6f2e70726f787974672e7370616365
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47397
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: predator-artist.top
+Port: 853
+Secret: ee54ce330e4690cc297d2b031ff3f288b06d742e616b656e61692e636c69636b
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38816
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38816" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38815
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Host:
+87.107.54.147
+
+Port:
+8888
+
+پروکسی برای سایفونتون 
+⚡️
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38812
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38812_1778755277.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+socks://62.220.126.92:32302/#https://t.me/ConfigX2ray
+
+socks://62.220.126.56:26132/#https://t.me/ConfigX2ray
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 11:47
 ---
 
