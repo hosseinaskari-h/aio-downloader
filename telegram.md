@@ -7,6 +7,85 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/24 15:48
+---
+
+## proxymtproto — post 47400
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: xd.rkn.lat
+Port: 443
+Secret: eec58bbb0e46e9fe769afc157088d87a076d61782e7275
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38824
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ShirOKhorshid-2026.05.14.apk
+</div>
+
+## configx2ray — post 38823
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38823" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+✅ برای استفاده از متود سایفون در گوشی بدون نیاز به v2ray و نصب سرتیفیکت، نسخه کاستوم شده سایفون رو نصب کنید
+
+⚙️ تنظیمات برنامه:
+در بخش More Option تیک Beast Mode رو بزنید و Connection Protocol رو روی CDN Fronting قرار بدید و در قسمت cdn ips edge ایپی های زیر را وارد کنید سپس وصل بشید ✅
+92.122.123.128
+2.19.204.87
+2.19.204.137
+2.19.204.144
+2.19.204.145
+2.19.204.170
+2.19.204.184
+2.19.204.185
+2.19.204.202
+2.19.204.210
+⬇️ لینک دانلود داخلی برنامه
+⬇️ لینک گیت هاب پروژه
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38822
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38822" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38821
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38821" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/24 14:11
 ---
 
