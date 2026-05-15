@@ -7,6 +7,170 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/25 19:05
+---
+
+## popularxfront — post 6257
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6257_1778859329.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇦 #Ukraine - 🇷🇺 #Russia: The Ryazan oil refinery in western Russia was struck overnight during a Ukrainian drone attack, causing massive fires at the facility and what local residents described as “oil rain” falling over parts of the city.
+
+The refinery, one of the largest in Russia and located more than 460 km from the Ukrainian border, has been targeted multiple times by Ukrainian strikes since the beginning of the war.
+
+Russian air defence activity during the attack also reportedly resulted in damage to residential buildings, with casualties reported.
+
+(via @Archer83Able on X)
+</div>
+
+## proxymtproto — post 47422
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: f1.kurduk.store
+Port: 443
+Secret: ee1e34c689f1f76dff1f2ae4aefb4c6848706574726f766963682e7275
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47421
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 217.60.98.160
+Port: 443
+Secret: eed9fd89062ab62abcbf1bd82dfe9140047777772e6d6963726f736f66742e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47420
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: pika.proxytg.space
+Port: 443
+Secret: ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38898
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+184.24.77.42 184.24.77.32 184.24.77.5 184.24.77.7 184.24.77.16 184.24.77.36 184.24.77.21 184.24.77.11 185.200.232.49 185.200.232.50 185.200.232.42 185.200.232.41 23.48.23.186 23.48.23.133 23.48.23.195 23.48.23.178 184.24.77.29 لیست ایپی های تست شده برای متود…
+</div>
+
+## configx2ray — post 38897
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+184.24.77.42
+184.24.77.32
+184.24.77.5
+184.24.77.7
+184.24.77.16
+184.24.77.36
+184.24.77.21
+184.24.77.11
+185.200.232.49
+185.200.232.50
+185.200.232.42
+185.200.232.41
+23.48.23.186
+23.48.23.133
+23.48.23.195
+23.48.23.178
+184.24.77.29
+
+
+لیست ایپی های تست شده برای متود جدید سایفون
+🔥
+
+همشو باهم وارد کنید داخل برنامه 
+🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38896
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+این متود هم فکر کنم نابود شد 
+😋
+</div>
+
+## configx2ray — post 38895
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+84.26.13.91
+23.54.210.170
+23.44.201.206
+23.220.163.205
+23.209.46.33
+23.10.34.11
+23.39.185.35
+23.32.152.106
+23.218.232.181
+23.206.188.212
+2.21.2.89
+23.208.222.120
+23.48.203.248
+23.44.201.136
+23.44.201.151
+23.44.201.149
+2.21.2.58
+23.3.90.48
+23.44.201.41
+2.19.204.184
+23.218.232.188
+23.44.201.12
+23.212.253.227
+23.201.31.155
+23.220.163.203
+23.44.201.185
+23.52.116.66
+23.44.201.17
+23.62.54.24
+23.218.239.132
+23.39.149.69
+23.52.40.147
+23.58.95.144
+2.16.244.58
+23.212.253.137
+2.17.106.176
+23.62.54.137
+2.17.106.5
+23.203.134.233
+23.212.253.232
+23.206.188.197
+23.44.201.170
+23.54.127.39
+23.214.170.83
+23.52.40.89
+23.55.176.73
+23.202.229.140
+23.215.56.61
+2.17.106.166
+23.222.126.108
+184.25.85.224
+23.1.241.123
+23.3.90.43
+
+
+لیست ایپی های تست شده برای متود جدید سایفون
+🔥
+
+همشو باهم وارد کنید داخل برنامه 
+🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/25 16:48
 ---
 
