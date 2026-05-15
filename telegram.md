@@ -7,6 +7,31 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/25 20:45
+---
+
+## popularxfront — post 6262
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇬🇧 #UK: London is preparing for one of its largest public order operations in recent years as two major demonstrations, the pro-Palestine “Nakba Day” march and the “Unite the Kingdom” rally organised by Tommy Robinson, take place simultaneously this weekend in central London, alongside the FA Cup Final.
+
+For the first time in a protest policing operation in the UK, live AI facial recognition will be used alongside aerial surveillance employing helicopters and drones, as well as armoured vehicles and large-scale specialist policing units deployed across the capital. Around 4.000 officers will be involved in the operation, with reinforcements from forces across England and Wales, as authorities reportedly prepare for "significant public order risks" across multiple protest routes.
+
+(via Reuters & BBC)
+</div>
+
+## proxymtproto — post 47423
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 34.51.189.93
+Port: 443
+Secret: dd2d7d9877fd3e4240f2ffd5596a39c68c
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/25 19:05
 ---
 
