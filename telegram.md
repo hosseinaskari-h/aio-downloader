@@ -7,6 +7,41 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/25 09:35
+---
+
+## popularxfront — post 6254
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6254_1778825100.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇭🇹 #Haiti: Footage showing the aftermath of a raid in Haiti after gang members have set fire to several houses in Artibonite.
+
+(via @war_noir)
+</div>
+
+## proxymtproto — post 47412
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 87.120.108.38
+Port: 443
+Secret: f212b4ee21a6f1026aadae4ce0b08f98
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47411
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: hello.proxytg.space
+Port: 443
+Secret: ee57b7509fe484325abedc85f18804843768656c6c6f2e70726f787974672e7370616365
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/25 05:42
 ---
 
