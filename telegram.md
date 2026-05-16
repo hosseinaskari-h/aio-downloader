@@ -7,6 +7,99 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/27 00:09
+---
+
+## proxymtproto — post 47448
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: connect.nolags.pw
+Port: 443
+Secret: ddc64c1442e6d67631dd7d40ed1e24aef2
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47447
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: Unknown
+Port: 7443
+Secret: AAAAAAAAAAAAAAAAAAAAABQ=
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38950
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستان چند عدد سرور اختصاصی 3 گیگ هم موجوده قیمت با بیشترین تخفیف تقدیم میشه 490 هزار تومان
+❤️ سرور کاملا تضمینی میباشد بدونه ضریب همراه با ساب جهت استعلام حجم مصرفیتون
+🌟 سرور ها بدونه هیچ گونه ضریب می‌باشند 
+❤️ مدت زمان سرور ها نامحدود میباشد محدودیت زمانی…
+</div>
+
+## configx2ray — post 38949
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستان چند عدد سرور اختصاصی 3 گیگ هم موجوده قیمت با بیشترین تخفیف تقدیم میشه 490 هزار تومان
+❤️
+
+سرور کاملا تضمینی میباشد بدونه ضریب همراه با ساب جهت استعلام حجم مصرفیتون
+🌟
+
+سرور ها بدونه هیچ گونه ضریب می‌باشند 
+❤️
+
+مدت زمان سرور ها نامحدود میباشد محدودیت زمانی ندارند 
+👍
+
+نیاز داشتید میتونید به ایدی زیر پیام بدید
+⭐️ :
+
+ID : https://t.me/servrfast2 
+💠
+</div>
+
+## configx2ray — post 38948
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+94.130.33.41
+138.201.54.122
+94.130.70.160
+144.76.1.88
+65.109.34.234
+94.130.50.12
+95.216.69.37
+142.54.178.211
+63.141.252.203
+2.23.168.144
+2.23.168.96
+184.31.170.185
+2.23.168.213
+2.22.31.104
+
+23.40.10.24 2.23.168.47 2.23.168.250 23.1.228.148 23.35.134.38
+
+23.65.119.52
+
+23.44.201.151
+ 
+
+
+
+همراه اول متصله انگار
+
+همشو باهم وارد کنید داخل برنامه 
+🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/26 23:17
 ---
 
