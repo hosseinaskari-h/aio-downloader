@@ -7,6 +7,20 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/26 16:17
+---
+
+## proxymtproto — post 47439
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: dealer1-de.dealer.ac
+Port: 8443
+Secret: ee1d5ddd766b5581496d020d394d0cb66d7477656e7475722e636f6d
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/26 15:15
 ---
 
