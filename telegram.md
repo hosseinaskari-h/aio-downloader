@@ -7,6 +7,125 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/26 21:09
+---
+
+## popularxfront — post 6274
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6274_1778953195.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇧🇴 #Bolivia: Clashes broke out between miner unions, protest groups, and law enforcement in La Paz as demonstrators called for the resignation of President Rodrigo Paz amid the country’s worsening economic and fuel crisis.
+
+Protesters confronted police while attempting to enter Plaza Murillo, Bolivia’s central government square, throwing what appeared to be dynamite sticks during the clashes. Meanwhile, roadblocks and demonstrations have continued across several parts of the country, including in El Alto, with regional reports describing a deteriorating security situation as authorities attempt to restore circulation.
+
+(via @correodelsurcom on X & Reuters)
+</div>
+
+## proxymtproto — post 47444
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 89.125.188.111
+Port: 443
+Secret: eeb07da4931e2e88e60496723a88462a9279616e6465782e7275
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38943
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+23.208.65.40
+104.103.65.50
+2.23.168.47
+23.215.60.41
+2.21.2.9
+2.21.2.10
+2.16.221.37
+95.101.35.112
+2.23.168.250
+2.21.2.91
+2.21.2.34
+2.21.2.104
+2.23.169.105
+2.16.20.51
+2.16.53.11
+2.16.53.50
+2.16.19.136
+151.101.0.223
+151.101.128.223
+151.101.192.223
+65.109.34.234
+151.101.64.223
+142.54.178.211
+2.16.53.50
+2.16.53.11
+95.101.133.82
+95.101.133.42
+104.103.65.50
+2.23.168.47
+104.103.64.7
+2.23.168.254
+2.23.168.144
+2.23.169.249
+2.23.169.42
+2.23.170.80
+104.103.65.5
+95.101.133.131
+104.103.65.74
+2.16.20.51
+23.221.28.57
+23.221.29.29
+23.221.28.5
+2.23.169.111
+2.23.168.96
+2.23.169.12
+2.23.168.174
+2.23.168.7
+184.84.221.34
+2.23.41.22
+185.200.232.43  
+185.200.232.40
+167.82.48.223
+151.101.128.223
+185.200.232.49
+185.200.232.50
+185.200.232.42
+185.200.232.41
+184.24.77.42
+184.24.77.32
+184.24.77.5
+184.24.77.7
+184.24.77.16
+184.24.77.36
+184.24.77.21
+184.24.77.11
+23.48.23.186
+23.48.23.133
+23.48.23.195
+23.48.23.178
+184.24.77.29
+2.23.168.47
+2.23.170.80
+2.23.168.144
+2.23.168.213
+2.23.168.174
+2.23.168.96
+2.23.168.254
+
+
+آیپی های تست شده برای متود جدید سایفون
+❤️
+
+همشو باهم وارد کنید داخل برنامه 
+🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/26 20:06
 ---
 
