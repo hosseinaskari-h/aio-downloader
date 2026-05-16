@@ -7,6 +7,43 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/26 13:26
+---
+
+## popularxfront — post 6271
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6271_1778925400.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇪🇹 #Ethiopia: Intense fighting between Fano militias and Ethiopian government forces was reported in and around Mahdere Maryam town in the Farta district of South Gondar on May 14th.
+
+According to regional sources, clashes lasted for more than seven hours after government forces backed by mechanized units and drones temporarily entered the town before being pushed back by AFNM fighters.
+
+(via @Zeyede1264 on X)
+</div>
+
+## proxymtproto — post 47435
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: s1.proxytg.space
+Port: 443
+Secret: ee481fc4aa7c63d939142d4dbf07e1aac464726976652e676f6f676c652e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47434
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: ethereal.arixo.shop
+Port: 443
+Secret: eed9fd89062ab62abcbf1bd82dfe914004617669746f2e7275
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/26 11:58
 ---
 
