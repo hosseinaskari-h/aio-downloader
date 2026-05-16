@@ -7,6 +7,20 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/26 23:17
+---
+
+## proxymtproto — post 47446
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: pika.proxytg.space
+Port: 443
+Secret: ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/26 22:10
 ---
 
