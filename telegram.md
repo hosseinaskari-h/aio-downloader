@@ -7,6 +7,21 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/26 07:33
+---
+
+## popularxfront — post 6270
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6270_1778904229.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇨🇴 #Colombia: Aerial footage shows a drone operated by the National Liberation Army (ELN) dropping explosives on FARC dissident positions in the Catatumbo region.
+
+(via @war_noir)
+</div>
+
+---
 📅 بروزرسانی: 1405/02/26 03:45
 ---
 
