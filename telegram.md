@@ -7,6 +7,93 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/26 22:10
+---
+
+## proxymtproto — post 47445
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: pika.proxytg.space
+Port: 443
+Secret: ee09ca9424322894efa56ebc7e6c88f87b70696b612e70726f787974672e7370616365
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38947
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38947_1778956805.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vmess://eyJhZGQiOiJhay5yZWF0YS5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzZDMyMmViYS1mN2I4LTRhODQtYmRlYi1mY2NlOTI4NjM1MWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE2NDgyIiwicHMiOiJAQ29uZmlnWDJyYXnwn5Sx8J+UpfCfkosiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38946
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38946" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38945
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مخابراتیا این هاست و پورت رو داخل سایفون وارد کنید انگار خوب وصله باهاش
+
+Host : 37.202.232.125
+Port : 1080
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38944
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+95.38.201.199
+5.144.129.174
+37.191.76.110
+81.12.72.218
+80.191.243.226
+79.175.169.59
+5.160.13.85
+185.137.25.214
+81.91.145.2
+92.246.144.179
+193.148.67.117
+217.219.39.77
+
+
+های تست شده برای متود جدید سایفون
+❤️
+
+همشو باهم وارد کنید داخل برنامه 
+🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/26 21:09
 ---
 
