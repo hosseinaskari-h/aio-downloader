@@ -7,6 +7,21 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/27 02:58
+---
+
+## popularxfront — post 6280
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6280_1778974094.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇮🇹 #Italy: A man rammed his car into pedestrians earlier today in Modena before crashing into a nearby store. After exiting the vehicle, the suspect stabbed another person who attempted to stop him before fleeing the scene.
+
+Police later arrested the suspect. According to reports, up to eight people were injured in the incident, while authorities have not yet publicly released a motive.
+</div>
+
+---
 📅 بروزرسانی: 1405/02/27 02:00
 ---
 
