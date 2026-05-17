@@ -7,6 +7,47 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/27 14:18
+---
+
+## popularxfront — post 6284
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6284_1779014932.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇦 #Ukraine - 🇷🇺 #Russia: Ukraine has launched reportedly one of the largest drone attacks of the war overnight towards Russia, with more than 500 drones launched across the country, including over 100 targeting the Moscow region alone.
+
+According to reports, strikes targeted the Moscow oil refinery, the Elma microelectronics technology park in Zelenograd, and a fuel facility near Solnechnogorsk.
+
+As a result of the strikes, Moscow’s four main airports temporarily suspended flights, while residential areas across Khimki, Mytishchi, and Krasnogorsk also reported damage from drone strikes and falling air defense debris.
+
+At least three civilians were reportedly killed.
+
+(via @wartranslated)
+</div>
+
+## proxymtproto — post 47456
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 132.243.213.215
+Port: 443
+Secret: ee46f33d84ae85e3ad53567904d7199be7706574726f766963682e7275
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47455
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: ark.proxytg.space
+Port: 443
+Secret: eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/27 12:49
 ---
 
