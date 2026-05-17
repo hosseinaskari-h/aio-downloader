@@ -7,6 +7,43 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/27 15:26
+---
+
+## proxymtproto — post 47457
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: proxy.nexorabust.ru
+Port: 443
+Secret: dd1cebd1dd4f8441f8af01177087ee9918
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38962
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فروش مجدد سرور اختصاصی 3 گیگابایتی قیمت با بیشترین تخفیف تقدیم میشه 490 هزار تومان
+❤️
+
+سرور کاملا تضمینی میباشد بدونه ضریب همراه با ساب جهت استعلام حجم مصرفیتون
+🌟
+
+سرور ها بدونه هیچ گونه ضریب می‌باشند 
+❤️
+
+مدت زمان سرور ها نامحدود میباشد محدودیت زمانی ندارند 
+👍
+
+نیاز داشتید میتونید به ایدی زیر پیام بدید
+⭐️ :
+
+ID : https://t.me/servrfast2 
+💠
+</div>
+
+---
 📅 بروزرسانی: 1405/02/27 14:18
 ---
 
