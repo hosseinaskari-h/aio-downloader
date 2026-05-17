@@ -7,6 +7,151 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/27 10:55
+---
+
+## popularxfront — post 6283
+
+<div align="center">
+  <img src="telegram/content/popularxfront_6283_1779002742.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸 #US - 🇳🇬 #Nigeria: Senior Islamic State commander Abu-Bilal al-Minuki was reportedly killed alongside several of his lieutenants during a joint US - Nigerian raid in the Lake Chad Basin.
+
+According to Nigerian authorities, the operation followed months of intelligence gathering and reconnaissance targeting militant activity in the region, which is a long-standing stronghold of Boko Haram and Islamic State West Africa Province (ISWAP).
+
+No casualties among US or Nigerian forces were reported during the raid.
+
+(via BBC)
+</div>
+
+## proxymtproto — post 47452
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: proxy.chunkycorp.shop
+Port: 443
+Secret: ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47451
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 132.243.224.115
+Port: 443
+Secret: ee64fa232998f0194a2cc5f5d0f4d1c9ae706574726f766963682e7275
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47450
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: atg.proxytg.space
+Port: 443
+Secret: eef9632da3b0ea3b51ab5840f93b2ddaff6174672e70726f787974672e7370616365
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38956
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستان چند عدد سرور اختصاصی 3 گیگ هم موجوده قیمت با بیشترین تخفیف تقدیم میشه 490 هزار تومان
+❤️ سرور کاملا تضمینی میباشد بدونه ضریب همراه با ساب جهت استعلام حجم مصرفیتون
+🌟 سرور ها بدونه هیچ گونه ضریب می‌باشند 
+❤️ مدت زمان سرور ها نامحدود میباشد محدودیت زمانی…
+</div>
+
+## configx2ray — post 38955
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دوستان چند عدد سرور اختصاصی 3 گیگ هم موجوده قیمت با بیشترین تخفیف تقدیم میشه 490 هزار تومان
+❤️
+
+سرور کاملا تضمینی میباشد بدونه ضریب همراه با ساب جهت استعلام حجم مصرفیتون
+🌟
+
+سرور ها بدونه هیچ گونه ضریب می‌باشند 
+❤️
+
+مدت زمان سرور ها نامحدود میباشد محدودیت زمانی ندارند 
+👍
+
+نیاز داشتید میتونید به ایدی زیر پیام بدید
+⭐️ :
+
+ID : https://t.me/servrfast2 
+💠
+</div>
+
+## configx2ray — post 38954
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38954_1779002743.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#https://t.me/ConfigX2ray
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2096?path=%2F%3Fed&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#https://t.me/ConfigX2ray
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.166.138:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#https://t.me/ConfigX2ray
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.147.223:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#https://t.me/ConfigX2ray
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.138:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#https://t.me/ConfigX2ray
+
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38953
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+185.200.232.43  
+185.200.232.40
+167.82.48.223
+151.101.128.223
+185.200.232.49
+185.200.232.50
+185.200.232.42
+185.200.232.41
+184.24.77.42
+184.24.77.32
+184.24.77.5
+184.24.77.7
+184.24.77.16
+184.24.77.36
+184.24.77.21
+184.24.77.11
+23.48.23.186
+23.48.23.133
+23.48.23.195
+23.48.23.178
+184.24.77.29
+
+
+آیپی های تست شده برای متود جدید سایفون
+❤️
+
+همشو باهم وارد کنید داخل برنامه 
+🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/27 08:03
 ---
 
