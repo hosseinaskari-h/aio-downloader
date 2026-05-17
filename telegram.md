@@ -7,6 +7,139 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/27 12:49
+---
+
+## proxymtproto — post 47454
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 186.246.16.55
+Port: 443
+Secret: ee7d21ac88a75bdb5887ec4918a20386927777772e6d6963726f736f66742e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47453
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: dealer4-fin.dealer.ac
+Port: 8443
+Secret: ee602b25b6e94c83ec0e24fbbc83c8bc547477656e7475722e636f6d
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38961
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38961" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38960
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+2.21.2.89
+23.208.222.120
+23.48.203.248
+23.44.201.136
+23.44.201.151
+23.44.201.149
+2.21.2.58
+23.3.90.48
+23.44.201.41
+2.19.204.184
+23.218.232.188
+23.44.201.12
+23.212.253.227
+23.201.31.155
+23.220.163.203
+23.44.201.185
+23.52.116.66
+23.44.201.17
+23.62.54.24
+23.218.239.132
+23.39.149.69
+23.52.40.147
+23.58.95.144
+2.16.244.58
+23.212.253.137
+2.17.106.176
+23.62.54.137
+2.17.106.5
+23.203.134.233
+23.212.253.232
+23.206.188.197
+23.44.201.170
+23.54.127.39
+23.214.170.83
+23.52.40.89
+23.55.176.73
+23.202.229.140
+23.215.56.61
+2.17.106.166
+23.222.126.108
+184.25.85.224
+23.1.241.123
+23.3.90.43
+
+آیپی های تست شده برای متود جدید سایفون
+❤️
+
+همشو باهم وارد کنید داخل برنامه 
+🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38958
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38958" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38957
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38957_1779009546.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+{"remarks":"💚 https://t.me/ConfigX2ray ","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"193.151.155.162","port":443,"users":[{"id":"2503481c-0757-4db8-bd54-589eb1b65bfe","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"ws","security":"tls","wsSettings":{"path":"/","headers":{"Host":"cdn.gapfilm.org"}},"tlsSettings":{"allowInsecure":true,"serverName":"cdn.gapfilm.org","fingerprint":"chrome","show":false}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
+
+
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/27 10:55
 ---
 
