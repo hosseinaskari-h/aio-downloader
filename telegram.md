@@ -7,6 +7,199 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/27 19:06
+---
+
+## popularxfront — post 6286
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6286_1779032186.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇱🇧 #Lebanon - 🇮🇱 #Israel: Hezbollah has released footage allegedly showing a fiber-optic-guided drone operated by its militants striking IDF soldiers in the Al-Naqoura area.
+
+(via @war_noir)
+</div>
+
+## proxymtproto — post 47461
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: ark.proxytg.space
+Port: 443
+Secret: eeb8df1294e7e13cd99e7a9144bae17db861726b2e70726f787974672e7370616365
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47460
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: atg.proxytg.space
+Port: 443
+Secret: eef9632da3b0ea3b51ab5840f93b2ddaff6174672e70726f787974672e7370616365
+@ProxyMTProto
+</div>
+
+## configx2ray — post 38970
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/38970" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38968
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+151.101.64.223
+151.101.0.223
+185.200.232.43  
+2.17.100.200
+2.19.205.42
+2.19.205.50
+2.19.252.134
+2.20.169.70
+2.20.170.91
+95.101.111.144
+2.16.245.188
+2.18.69.150
+2.16.106.4
+23.58.222.107
+184.25.28.31
+23.47.124.134
+23.50.131.147
+23.46.190.18
+23.58.222.147
+23.56.162.186
+23.44.203.68
+23.12.156.115
+23.216.77.16
+23.62.61.53
+23.39.148.245
+23.210.73.133
+23.44.201.136
+23.205.46.167
+184.30.150.142
+23.220.161.217
+184.28.165.4
+23.46.230.133
+88.221.168.204
+104.96.158.174
+184.51.252.4
+172.234.199.15
+104.85.26.14
+172.237.145.27
+92.123.103.24
+172.234.159.58
+184.86.103.210
+96.16.248.183
+92.122.16.5
+96.16.249.60
+96.16.249.9
+
+
+آیپی های تست شده برای متود جدید سایفون
+❤️
+
+همشو باهم وارد کنید داخل برنامه 
+🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38967
+
+<div align="center">
+  <a href="telegram/content/configx2ray_38967_1779032189.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+{"remarks":"https://t.me/ConfigX2ray 🥗","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls","fakedns","fakedns"],"routeOnly":false}},{"tag":"dns-in","port":10853,"protocol":"dokodemo-door","listen":"127.0.0.1","settings":{"address":"1.1.1.1","port":53,"network":"tcp,udp"}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"varzesh3.com","port":8080,"users":[{"id":"97b36571-ffdc-5bdb-7bc4-bbcf8f3debb4","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"ws","wsSettings":{"path":"/","headers":{"Host":"cdn-665e-o0g.fars-rehan.ir"}}},"mux":{"enabled":true,"concurrency":8,"xudpConcurrency":16,"xudpProxyUDP443":"reject"}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"dns-out","protocol":"dns","mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":[{"address":"fakedns","domains":["geosite:cn"]},"1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]},"fakedns":[{"ipPool":"198.18.0.0/15","poolSize":10000}]}
+
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 38966
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+95.101.29.12
+95.101.29.30
+95.101.29.54
+95.101.35.73
+95.101.35.83
+95.101.181.125
+95.101.200.63
+96.16.122.48
+96.16.122.59
+104.83.5.208
+104.83.15.66
+104.94.100.73
+104.96.143.134
+104.103.64.7
+104.109.128.153
+104.111.202.158
+104.117.76.26
+104.117.76.40
+184.25.52.200
+184.28.230.87
+184.51.252.36
+184.51.252.38
+184.86.251.27
+23.215.0.164
+23.220.128.221
+96.17.207.142
+23.50.131.18
+23.219.3.212
+23.223.245.150
+96.17.207.135
+23.220.113.51
+96.17.72.41
+23.203.185.105
+2.23.168.213
+2.23.168.174
+96.17.207.137
+96.16.122.75
+173.222.200.5
+96.16.122.146
+96.17.206.214
+172.239.57.117
+96.17.207.30
+96.16.122.83
+96.16.122.150
+96.16.122.77
+96.17.207.155
+2.23.168.47
+2.23.168.144
+
+
+آیپی های تست شده برای متود جدید سایفون
+❤️
+
+همشو باهم وارد کنید داخل برنامه 
+🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/27 17:56
 ---
 
