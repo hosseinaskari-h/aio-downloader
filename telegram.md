@@ -7,6 +7,248 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/28 23:41
+---
+
+## popularxfront — post 6299
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6299_1779135098.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸 #US: A reported active shooter incident occurred at the Islamic Center of San Diego moments ago. San Diego Police have stated that the situation remains “active but contained”.
+
+There are also reports of at least one person killed in the shooting. It is currently unclear whether the deceased is the suspect or a bystander.
+
+(via CNN & nbcsandiego)
+</div>
+
+## popularxfront — post 6298
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇾🇪 #Yemen: A Yemeni arms dealer has posted footage on his Facebook account showing tests of various weapons he reportedly has for sale against a dummy wearing a Real Madrid football shirt.
+
+The "ballistic protection" of the dummy was described as a mix of 12 mm glass panels combined with silicone material.
+</div>
+
+## proxymtproto — post 47483
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: rkn.prxtoday.space
+Port: 443
+Secret: eee905e5553bb4da46367bc56513a43d36726b6e2e707278746f6461792e7370616365
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47482
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: proxy.chunkycorp.shop
+Port: 443
+Secret: ee3a3365be03d6bc13518d65e70a3146c2706574726f766963682e7275
+@ProxyMTProto
+</div>
+
+## configx2ray — post 39019
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+185.200.232.43
+185.200.232.40
+167.82.48.223
+151.101.128.223
+185.200.232.49
+185.200.232.50
+185.200.232.42
+185.200.232.41
+184.24.77.42
+184.24.77.32
+184.24.77.5
+184.24.77.7
+184.24.77.16
+184.24.77.36
+184.24.77.21
+184.24.77.11
+23.48.23.186
+23.48.23.133
+23.48.23.195
+23.48.23.178
+184.24.77.29
+23.65.119.52
+23.73.2.141
+104.110.138.190
+104.83.5.202
+92.122.166.236
+92.122.166.234
+92.122.166.237
+96.16.122.70
+23.67.136.200
+23.67.136.202
+95.216.69.37
+95.216.69.38
+95.216.69.39
+95.216.69.40
+104.78.170.186
+96.17.222.31
+23.41.37.129
+23.2.13.227
+23.222.126.108
+2.20.255.113
+2.17.251.98
+23.2.13.152
+95.101.23.27
+2.21.239.21
+23.211.49.252
+88.221.168.5
+104.103.90.156
+23.79.20.249
+88.221.132.162
+23.59.235.208
+23.60.69.118
+23.46.188.71
+104.122.212.92
+23.219.1.4
+23.57.43.195
+184.51.252.135
+2.22.6.68
+23.217.11.56
+95.100.69.108
+23.40.63.69
+96.16.122.74
+104.109.250.232
+92.123.104.7
+104.110.191.57
+104.83.5.82
+92.122.166.168
+104.83.5.65
+104.121.0.17
+104.66.70.133
+92.122.166.146
+23.73.2.161
+92.122.73.138
+92.122.166.141
+96.16.122.55
+104.81.108.51
+23.72.248.214
+104.126.37.185
+104.83.5.201
+104.83.5.216
+92.123.104.67
+104.83.5.203
+96.17.207.151
+88.221.168.138
+96.17.207.149
+104.81.108.10
+23.73.2.148
+92.122.166.175
+172.237.127.6
+104.81.104.13
+96.16.122.82
+96.16.122.66
+96.7.218.219
+96.16.122.137
+184.51.252.157
+92.123.189.41
+184.86.251.12
+96.16.122.154
+184.51.252.152
+96.17.207.12
+23.79.48.162
+151.101.0.223
+151.101.192.223
+65.109.34.234
+151.101.64.223
+2.23.169.111
+2.23.168.96
+2.23.169.105
+2.23.168.7
+2.23.169.207
+2.17.100.200
+2.19.205.42
+2.19.205.50
+2.19.252.134
+2.20.169.70
+2.20.170.91
+95.101.111.144
+2.16.245.188
+2.18.69.150
+2.16.106.4
+23.58.222.107
+184.25.28.31
+23.47.124.134
+23.50.131.147
+23.46.190.18
+23.58.222.147
+23.56.162.186
+23.44.203.68
+23.12.156.115
+23.216.77.16
+23.62.61.53
+23.39.148.245
+23.210.73.133
+23.44.201.136
+23.205.46.167
+184.30.150.142
+23.220.161.217
+184.28.165.4
+23.46.230.133
+88.221.168.204
+104.96.158.174
+184.51.252.4
+172.234.199.15
+104.85.26.14
+172.237.145.27
+92.123.103.24
+172.234.159.58
+184.86.103.210
+96.16.248.183
+92.122.16.5
+96.16.249.60
+96.16.249.9
+142.54.178.211
+185.137.25.214
+81.12.72.218
+5.160.13.85
+37.255.133.30
+81.91.145.2
+104.117.76.26
+104.117.76.40
+184.25.52.200
+184.28.230.87
+184.51.252.36
+184.51.252.38
+184.86.251.27
+23.215.0.164
+
+آیپی های تست شده برای متود جدید سایفون
+❤️
+
+همشو باهم وارد کنید داخل برنامه 
+🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 39018
+
+<div align="center">
+  <a href="https://t.me/ConfigX2ray/39018" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کانفیگ برای Npv tunnel ⭕️
+
+به هیچ وج دانلود نزنید باهاش
+❤️
+
+رمز فایل : @ConfigX2ray
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/28 21:53
 ---
 
