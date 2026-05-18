@@ -7,6 +7,415 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/28 20:04
+---
+
+## popularxfront — post 6296
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6296_1779122059.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇵🇸 #Palestine - 🇮🇱 #Israel: Israel’s Navy reportedly boarded and seized at least 28 flotilla boats in the eastern Mediterranean earlier today as they attempted to transport food, baby formula, and medical supplies to Gaza in an effort to break the Israeli maritime blockade.
+
+Live footage from one of the vessels shows IDF troops boarding the boats during the operation. The incident comes despite the ceasefire agreement reached in October, which included guarantees of increased humanitarian aid into Gaza, while Palestinians and international aid organizations continue to say that supplies reaching the enclave remain insufficient amid ongoing Israeli strikes, including attacks targeting civilians and charity kitchens across the territory.
+</div>
+
+## popularxfront — post 6295
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👁 Dark Sam Black beats to chain cigs and get paranoid about the government to... https://www.youtube.com/watch?v=bpdTWxZjCs0
+</div>
+
+## proxymtproto — post 47480
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 78.17.71.42
+Port: 443
+Secret: eeec75b855ebcc01c982f3e013af8ed92a7777772e79616e6465782e7275
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47479
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: hl.routefastnet.online
+Port: 443
+Secret: eea9a5f5674069d982088b5ad27dca4584686c2e726f757465666173746e65742e6f6e6c696e65
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47478
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 186.246.16.221
+Port: 443
+Secret: eec11798ab008831b474066c9e1ebf5c99617669746f2e7275
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47477
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 178.105.137.152
+Port: 443
+Secret: eeabf13064a3bf0851a02ad67114f842ce676f6f676c65617069732e636f6d
+@ProxyMTProto
+</div>
+
+## configx2ray — post 39014
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+104.109.250.240
+92.122.17.124
+96.16.122.153
+151.101.64.223
+151.101.0.223
+185.200.232.43  
+2.17.100.200
+2.19.205.42
+2.19.205.50
+2.19.252.134
+2.20.169.70
+2.20.170.91
+95.101.111.144
+2.16.245.188
+2.18.69.150
+2.16.106.4
+23.58.222.107
+184.25.28.31
+23.47.124.134
+23.50.131.147
+23.46.190.18
+23.58.222.147
+23.56.162.186
+23.44.203.68
+23.12.156.115
+23.216.77.16
+23.62.61.53
+23.39.148.245
+23.210.73.133
+23.44.201.136
+23.205.46.167
+184.30.150.142
+23.220.161.217
+184.28.165.4
+23.46.230.133
+88.221.168.204
+104.96.158.174
+184.51.252.4
+172.234.199.15
+104.85.26.14
+172.237.145.27
+92.123.103.24
+172.234.159.58
+184.86.103.210
+96.16.248.183
+92.122.16.5
+96.16.249.60
+96.16.249.9
+184.26.57.149
+2.17.211.216
+2.19.205.66
+2.20.135.163
+2.21.176.57
+2.21.239.16
+2.21.240.15
+2.23.169.12
+2.23.97.122
+23.12.147.134
+23.193.117.5
+23.196.14.11
+23.196.3.200
+23.2.13.154
+23.2.13.226
+23.200.79.136
+23.200.87.22
+23.202.230.211
+23.204.136.169
+23.204.9.130
+23.205.106.74
+23.205.165.21
+23.212.110.33
+23.212.250.11
+23.212.250.25
+23.213.158.26
+23.214.139.250
+23.215.0.40
+23.216.77.154
+23.216.77.162
+23.216.77.50
+23.216.77.70
+23.217.124.170
+23.37.198.164
+23.44.201.234
+23.44.203.86
+23.44.215.152
+23.52.182.11
+23.54.127.42
+23.55.110.208
+23.55.161.161
+23.61.250.82
+23.9.187.41
+23.217.47.193
+23.40.179.202
+184.27.225.90
+23.53.13.19
+95.101.50.88
+23.204.115.108
+2.21.240.147
+184.24.232.70
+2.22.255.47
+23.49.248.8
+23.213.158.12
+23.210.216.145
+23.33.90.150
+23.44.201.134
+23.208.64.159
+23.216.77.140
+2.22.255.17
+23.209.72.174
+2.19.204.225
+23.44.201.152
+23.55.176.84
+2.19.204.211
+23.219.36.106
+23.215.0.134
+2.21.2.97
+23.61.202.70
+23.44.201.206
+23.218.239.132
+23.212.253.232
+
+
+آیپی های تست شده برای متود جدید سایفون❤️
+
+همشو باهم وارد کنید داخل برنامه 🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 39011
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+23.219.36.80
+23.56.109.144
+2.23.7.25
+2.16.106.34
+2.17.251.104
+23.216.77.62
+23.216.77.63
+23.216.77.71
+23.55.110.67
+23.48.203.186
+96.16.53.161
+96.16.122.156
+96.16.122.60
+184.51.97.129
+185.200.232.43
+185.200.232.40
+
+آیپی های تست شده برای متود جدید سایفون
+❤️
+
+همشو باهم وارد کنید داخل برنامه 
+🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 39010
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+23.73.2.141
+104.83.5.202
+23.67.136.200
+23.67.136.202
+23.65.119.52
+96.16.122.70
+92.122.166.236
+92.122.166.234
+92.122.166.237
+104.110.138.190
+173.222.200.5
+184.51.252.36
+184.51.252.38
+104.83.5.208
+96.16.122.146
+96.17.206.214
+92.122.166.197
+104.94.100.73
+104.83.15.66
+88.221.213.81
+172.239.57.117
+104.117.76.40
+184.51.252.4
+96.17.207.30
+96.16.122.83
+96.16.122.150
+23.73.207.11
+96.16.122.77
+96.17.207.155
+92.123.189.82
+96.16.122.82
+96.16.122.66
+96.7.218.219
+96.16.122.137
+184.51.252.157
+92.123.189.41
+184.86.251.12
+96.16.122.154
+96.16.122.157
+184.51.252.152
+96.17.207.12
+23.79.48.162
+
+
+آیپی های تست شده برای متود جدید سایفون
+❤️
+
+همشو باهم وارد کنید داخل برنامه 
+🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 39008
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+184.51.252.152
+184.51.252.157
+184.86.103.210
+184.86.251.12
+184.86.251.27
+184.24.77.42
+184.25.28.31
+184.25.52.200
+184.28.165.4
+184.28.230.87
+184.30.150.142
+184.51.252.4
+184.51.252.36
+184.51.252.38
+184.51.252.135
+185.200.232.40
+185.200.232.41
+185.200.232.42
+185.200.232.43
+185.200.232.49
+185.200.232.50
+
+
+آیپی های تست شده برای متود جدید سایفون
+❤️
+
+همشو باهم وارد کنید داخل برنامه 
+🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+## configx2ray — post 39005
+
+<div align="center">
+  <a href="telegram/content/configx2ray_39005_1779122060.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+vless://aa2b0e7a-6af9-4dc0-a378-04de4e801a92@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#10https://t.me/ConfigX2ray
+
+vless://71b308e0-e718-41b5-8c33-13cbebce3fe9@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#9https://t.me/ConfigX2ray
+
+vless://e757b0a0-d217-41c8-8177-05b7f2ab3462@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#8https://t.me/ConfigX2ray
+
+vless://da992858-3123-4aea-9bb5-6c8f8d74688d@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#7https://t.me/ConfigX2ray
+
+vless://693d989f-7d83-4b64-92d8-f65a01b00426@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#6https://t.me/ConfigX2ray
+
+vless://bd6e4c14-9d2b-4fa8-a3cf-1b74dd78ede7@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#5https://t.me/ConfigX2ray
+
+vless://ec3ec6ca-6e64-48b2-964a-5d0cfecfabd0@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#4https://t.me/ConfigX2ray
+
+vless://78c82ae4-596b-45f6-8d21-2f136db7d205@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#3https://t.me/ConfigX2ray
+
+vless://6408f8f3-4d00-4c36-aa0e-b49d09a26a34@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#2https://t.me/ConfigX2ray
+
+vless://80dd98cd-b501-4e3e-98e0-274e01916f94@arvancloud.ir:2095?path=%2FAar%2Cd-F%3Fed%3D2086&security=none&encryption=none&host=jswq678j.exinasy.site&type=ws#1https://t.me/ConfigX2ray
+
+
+ترکیبی با سایفون وصله 
+✅
+
+آموزش استفادع : 
+👇
+https://t.me/ConfigX2ray0/1665
+</div>
+
+## configx2ray — post 39004
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+2.17.100.200
+2.19.205.42
+2.19.205.50
+2.19.252.134
+2.20.169.70
+2.20.170.91
+95.101.111.144
+2.16.245.188
+2.18.69.150
+2.16.106.4
+23.58.222.107
+184.25.28.31
+23.47.124.134
+23.50.131.147
+23.46.190.18
+23.58.222.147
+23.56.162.186
+23.44.203.68
+23.12.156.115
+23.216.77.16
+23.62.61.53
+23.39.148.245
+23.210.73.133
+23.44.201.136
+23.205.46.167
+184.30.150.142
+23.220.161.217
+184.28.165.4
+23.46.230.133
+88.221.168.204
+104.96.158.174
+184.51.252.4
+172.234.199.15
+104.85.26.14
+172.237.145.27
+92.123.103.24
+172.234.159.58
+184.86.103.210
+96.16.248.183
+92.122.16.5
+96.16.249.60
+
+
+آیپی های تست شده برای متود جدید سایفون
+❤️
+
+همشو باهم وارد کنید داخل برنامه 
+🔥
+
+Channel : https://t.me/ConfigX2ray
+</div>
+
+---
 📅 بروزرسانی: 1405/02/28 16:31
 ---
 
