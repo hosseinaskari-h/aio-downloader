@@ -7,6 +7,41 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/28 09:27
+---
+
+## popularxfront — post 6288
+
+<div align="center">
+  <a href="telegram/content/popularxfront_6288_1779083846.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇾🇪 #Yemen - 🇺🇸 #US: The Houthis have claimed to have shot down a US MQ-9 Reaper drone over Yemen’s Marib province.
+
+Footage released by the group allegedly shows the burning wreckage of the drone, along with debris believed to be from a surface-to-air missile reportedly used to bring it down.
+</div>
+
+## proxymtproto — post 47468
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 79.137.196.223
+Port: 4443
+Secret: eeee4026e99e99216664b0cb156da676d7707777772e636c6f7564666c6172652e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47467
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 144.31.221.15
+Port: 443
+Secret: 1d704dc7fbf37924bc72f016a8f91b0d
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/28 05:04
 ---
 
