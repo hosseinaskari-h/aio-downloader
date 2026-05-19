@@ -7,6 +7,30 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/29 09:21
+---
+
+## proxymtproto — post 47487
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: 178.105.168.17
+Port: 443
+Secret: eeb67e98429f3ba8896ff33ab9ff9d18a1676f6f676c65617069732e636f6d
+@ProxyMTProto
+</div>
+
+## proxymtproto — post 47486
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Server: rn.quantadc.online
+Port: 443
+Secret: ee526f153573c253113db8d64dfd69baf0726e2e7175616e746164632e6f6e6c696e65
+@ProxyMTProto
+</div>
+
+---
 📅 بروزرسانی: 1405/02/29 05:06
 ---
 
